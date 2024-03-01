@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/buddy-bots/static/css/main.af8d0f85.css",
+    "main.js": "/buddy-bots/static/js/main.71394a8e.js",
+    "static/js/453.fab29c56.chunk.js": "/buddy-bots/static/js/453.fab29c56.chunk.js",
+    "static/media/SEGA.woff": "/buddy-bots/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/buddy-bots/index.html",
+    "main.af8d0f85.css.map": "/buddy-bots/static/css/main.af8d0f85.css.map",
+    "main.71394a8e.js.map": "/buddy-bots/static/js/main.71394a8e.js.map",
+    "453.fab29c56.chunk.js.map": "/buddy-bots/static/js/453.fab29c56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af8d0f85.css",
+    "static/js/main.71394a8e.js"
+  ]
+}
